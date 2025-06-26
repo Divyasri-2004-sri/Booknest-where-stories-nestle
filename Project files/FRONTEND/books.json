@@ -1,0 +1,119 @@
+[
+  {
+    "title": "The Silent Watcher",
+    "author": "Emily Hart",
+    "genre": "Mystery",
+    "description": "A gripping tale of secrets in a quiet town.",
+    "price": "350",
+    "userName": "Demo Seller",
+    "itemImage": "uploads/1700630708206-1979210[1].jpg"
+  },
+  {
+    "title": "Beyond the Stars",
+    "author": "Rajiv Khanna",
+    "genre": "Science Fiction",
+    "description": "A journey across galaxies and the human soul.",
+    "price": "420",
+    "userName": "Demo Seller",
+    "itemImage": "uploads/1700631424222-18505809[1].jpg"
+  },
+  {
+    "title": "Harry Potter",
+    "author": "J. K. Rowling",
+    "genre": "Magic and Fiction",
+    "description": "Harry Potter is a series of seven fantasy novels written by British author J. K. Rowling. The novels chronicle the lives of a young wizard, Harry Potter, and his friends, Ron Weasley and Hermione Granger, all of whom are students at Hogwarts School of Witchcraft and Wizardry.",
+    "price": "275",
+    "userName": "Demo Seller",
+    "itemImage": "uploads/1700632005607-136251[1].jpg"
+  },
+  {
+    "title": "Whispers of the Past",
+    "author": "Owen Clough",
+    "genre": "Historical mystery",
+    "description": "Unearthing old letters reveals untold stories.",
+    "price": "390",
+    "userName": "Demo Seller",
+    "itemImage": "uploads/whisper of the past.jpg"
+  },
+  {
+    "title": "The Midnight Code",
+    "author": "Farooq ibn Habib",
+    "genre": "Thriller",
+    "description": "A programmer uncovers a digital conspiracy.",
+    "price": "310",
+    "userName": "Demo Seller",
+    "itemImage": "uploads/the mid night code.jpg"
+  },
+  {
+    "title": "Windswept",
+    "author": "Carlos Mendes",
+    "genre": "Drama",
+    "description": "A family torn apart by war and reunited by hope.",
+    "price": "299",
+    "userName": "Demo Seller",
+    "itemImage": "uploads/1700632736939-30186948[1].jpg"
+  },
+  {
+    "title": "Echoes in the Fog",
+    "author": "Mira Desai",
+    "genre": "Psychological",
+    "description": "Delving into the mind of a troubled artist.",
+    "price": "340",
+    "userName": "Demo Seller",
+    "itemImage": "uploads/1700632928170-80830635[1].jpg"
+  },
+  {
+    "title": "Rain on Red Leaves",
+    "author": "Takashi Yamamoto",
+    "genre": "Literary Fiction",
+    "description": "A poetic exploration of grief and renewal.",
+    "price": "280",
+    "userName": "Demo Seller",
+    "itemImage": "uploads/1700633112352-42983957[1].jpg"
+  },
+  {
+    "title": "Digital Horizon",
+    "author": "Ananya Bose",
+    "genre": "Techno-Thriller",
+    "description": "AI, ethics, and the edge of technological evolution.",
+    "price": "450",
+    "userName": "Demo Seller",
+    "itemImage": "uploads/1700633869849-122765395[1].jpg"
+  },
+  {
+    "title": "Lanterns by the Lake",
+    "author": "Mei Lin",
+    "genre": "Contemporary Fiction",
+    "description": "A quiet town lit by its stories and people.",
+    "price": "320",
+    "userName": "Demo Seller",
+    "itemImage": "uploads/1700638048715-61111298[1].jpg"
+  },
+  {
+    "title": "The Crystal Path",
+    "author": "Jonas Licht",
+    "genre": "Fantasy",
+    "description": "A mystical quest filled with magical wonders.",
+    "price": "499",
+    "userName": "Demo Seller",
+    "itemImage": "uploads/1700643491707-63331415[1].jpg"
+  },
+  {
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert T. Kiyosaki",
+    "genre": "Personal finance",
+    "description": " It advocates the importance of financial literacy, financial independence and building wealth through investing in assets, real estate investing, starting and owning businesses, as well as increasing one's financial intelligence.",
+    "price": "360",
+    "userName": "Demo Seller",
+    "itemImage": "uploads/1700721610720-29502358[1].jpg"
+  },
+  {
+    "title": "The Old Library",
+    "author": "Oliver Brooks",
+    "genre": "Adventure",
+    "description": "Maps, secrets, and a library lost in time.",
+    "price": "385",
+    "userName": "Demo Seller",
+    "itemImage": "uploads/1742294964528-images.jpeg"
+  }
+]
